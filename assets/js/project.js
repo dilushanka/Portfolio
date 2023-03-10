@@ -17,7 +17,7 @@ const projects = [
   {
     title: "Drive link to Direct Download",
     cardImage: "assets/images/project-page/drive.png",
-    description: "A chess engine for a popular game dev engine.",
+    description: "Google drive link to Direct download link.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "",
     Githublink: "",
