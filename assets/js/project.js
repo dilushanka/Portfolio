@@ -13,15 +13,16 @@ const projects = [
     Previewlink: "https://singlishtosinhala.helalk.com/",
     Githublink: "https://github.com/dilushanka/singlishtosinhala",
   },
-  /*
+  
   {
-    title: "Chess Engine",
-    cardImage: "assets/images/project-page/chess.jpg",
+    title: "Drive link to Direct Download",
+    cardImage: "assets/images/project-page/drive.png",
     description: "A chess engine for a popular game dev engine.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "",
     Githublink: "",
   },
+  /*
   {
     title: "Flappy Bird",
     cardImage: "assets/images/project-page/flappybird.png",
