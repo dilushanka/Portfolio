@@ -8,7 +8,7 @@ const projects = [
   {
     title: "Singlish To Sinhala Converter",
     cardImage: "assets/images/project-page/converter.png",
-    description: "A quiz app built using basic react.",
+    description: "A Converter for singlish to sinhala using html, css and js.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://singlishtosinhala.helalk.com/",
     Githublink: "https://github.com/dilushanka/singlishtosinhala",
